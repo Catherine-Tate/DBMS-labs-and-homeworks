@@ -1,0 +1,55 @@
+<restaurant>
+    <name>Data Bites Restaurant</name>
+    <menu>
+        <recipes>
+            <recipe name="Chili" season="Fall" serves="20">
+                <ingredients>
+                    <ingredient> Meat </ingredient>
+                        <ingredient> Beans </ingredient>
+                    <ingredient> Sour Cream  </ingredient>
+                    <ingredient> Cheese </ingredient>
+                    <ingredient> Chili Peppers  </ingredient>
+                    <ingredient> Onions  </ingredient>
+                </ingredients>
+                <instructions> 
+                    Put all the ingredients in a pot. Boil at 7000 Degrees F. Serve. Enjoy. 
+                </instructions>
+            </recipe>
+        
+            <recipe name="Grilled Cheese Sandwich" season="Winter" serves="1">
+                <ingredients>
+                    <ingredient> Bread </ingredient>
+                    <ingredient> Butter </ingredient>
+                    <ingredient> Cheddar Cheese </ingredient>
+                    <ingredient> Swiss Cheese </ingredient>
+                </ingredients>
+                <instructions>
+                    Lightly Toast Bread. Cover both sides of the bread with butter. 
+                    Layer Cheese between bread. Cook on frying pan until cheese is melted.
+                    Serve. Enjoy.
+                </instructions>
+            </recipe>
+        </recipes>    
+    </menu>
+    
+    <employees>
+        
+        <employee>
+            <name> Miranda Rights </name>
+            <payrate>10.00</payrate>
+            <job>dishwasher</job>
+        </employee>
+       
+        <employee>
+            <name> Oficero Thelaw  </name>
+            <payrate>200.00</payrate>
+            <job>manager</job>
+        </employee>
+        
+        <employee>
+            <name> Givsu Yofood </name>
+            <payrate>30.00</payrate>
+            <job>server</job>
+        </employee>
+    </employees>
+</restaurant>
